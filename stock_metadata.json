@@ -1,0 +1,6 @@
+{
+    "model_name": "Random Forest (Tuned)",
+    "test_accuracy": 0.5187,
+    "features_count": 10,
+    "description": "Stock Daily Direction Prediction (1 = UP trend, 0 = DOWN trend)"
+}
