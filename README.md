@@ -48,7 +48,7 @@
 ```text
 git clone [https://github.com/Nithi67160346/DS_S-P500BACKTEST5YR.git](https://github.com/Nithi67160346/DS_S-P500BACKTEST5YR.git)
 
-cd your-repo-name 
+cd DS_S-P500BACKTEST5YR
 ```
 
 * **ติดตั้งไลบรารีที่จำเป็น: (แนะนำให้ใช้ Virtual Environment)**
