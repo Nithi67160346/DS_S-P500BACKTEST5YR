@@ -40,20 +40,17 @@
 ├── ticker_list.json            # รายชื่อตัวย่อหุ้น S&P 500 สำหรับสร้างเมนู
 ├── requirements.txt            # รายชื่อไลบรารีที่จำเป็นสำหรับการรันโปรเจกต์
 └── README.md                   # ไฟล์อธิบายโปรเจกต์
+```
 
-
-🚀 วิธีการติดตั้งและทดลองรัน (Installation & Setup)
+## 🚀 วิธีการติดตั้งและทดลองรัน (Installation & Setup)
 โคลน Repository:
 
-Bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+* git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
 cd your-repo-name
-ติดตั้งไลบรารีที่จำเป็น: (แนะนำให้ใช้ Virtual Environment)
 
-Bash
+*ติดตั้งไลบรารีที่จำเป็น: (แนะนำให้ใช้ Virtual Environment)
 pip install -r requirements.txt
 รันแอปพลิเคชัน Streamlit:
 
-Bash
-streamlit run app.py
+* streamlit run app.py
 เปิดใช้งานหน้าเว็บ: เข้าไปที่เว็บบราวเซอร์ของคุณตาม URL ที่แสดงใน Terminal (โดยปกติคือ http://localhost:8501)
