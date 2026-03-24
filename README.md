@@ -46,7 +46,7 @@
 * **โคลน Repository:** 
 
 ```text
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+git clone [https://github.com/Nithi67160346/DS_S-P500BACKTEST5YR.git](https://github.com/Nithi67160346/DS_S-P500BACKTEST5YR.gitt)
 
 cd your-repo-name 
 ```
