@@ -43,14 +43,20 @@
 ```
 
 ## 🚀 วิธีการติดตั้งและทดลองรัน (Installation & Setup)
-โคลน Repository:
+* **โคลน Repository:** 
 
-* git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-cd your-repo-name
+```text
+git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
 
-*ติดตั้งไลบรารีที่จำเป็น: (แนะนำให้ใช้ Virtual Environment)
+cd your-repo-name 
+```
+
+* **ติดตั้งไลบรารีที่จำเป็น: (แนะนำให้ใช้ Virtual Environment)**
+```text
 pip install -r requirements.txt
-รันแอปพลิเคชัน Streamlit:
-
-* streamlit run app.py
+```
+* **รันแอปพลิเคชัน Streamlit:**
+```text
+streamlit run app.py
 เปิดใช้งานหน้าเว็บ: เข้าไปที่เว็บบราวเซอร์ของคุณตาม URL ที่แสดงใน Terminal (โดยปกติคือ http://localhost:8501)
+```
